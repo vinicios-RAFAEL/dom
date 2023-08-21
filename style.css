@@ -1,0 +1,38 @@
+:root {
+    --main-cinza:
+    --main-branco:
+    --main-preto:
+}
+
+* {
+    box-sizing: border-box;
+  
+  }  
+
+body {
+   background: url(../img/fundo.jpg);
+   backgroound-position: center center;
+   backgroound-size: cover cover;
+   padding: 0;
+   margin: 0;
+   font-weight: 300;
+
+   }
+
+   body, input {
+        font-family: 'teko', sans-serif;
+    
+    }
+
+    main {
+      width: 80vw;
+      height: 80vw;
+      margin:10vh 8vw 10vh 12vw;
+      display: flex;
+      gap: 1vw;
+
+      }   
+      .robotrom {
+        
+
+      }
