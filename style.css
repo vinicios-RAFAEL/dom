@@ -9,7 +9,7 @@
 }
 
 body {
-    background: url(../img/FUNDO01.JPG);
+    background: url(../img/imagem\ fundo.jpg);
     background-position: center center;
     background-size: cover cover;
     padding: 0;
@@ -30,7 +30,7 @@ main {
 }
 
 .robotron {
-    background: url(../img/estrutura.png) no-repeat;
+    background: url(../img/71vJN7454cL._AC_UF894_1000_QL80_-removebg-preview.png) no-repeat;
     background-position: center center;
     margin: 0;
     flex-basis: 40%;
@@ -40,7 +40,7 @@ main {
 .robo {
     height: 110%;
     z-index: 1;
-    position: absolute;
+    position: ;
     left: -20%;
     top: -5%;
 }
@@ -55,7 +55,7 @@ main {
     line-height: 0.8;
     writing-mode: vertical-rl;
     text-orientation: mixed;
-    color: rgba(255,255,255,0.8)
+    color: rgba(25,255,255,0.8)
 }
 
 .box {
